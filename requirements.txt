@@ -1,0 +1,12 @@
+requests ==2.32.3
+langchain==0.2.12
+pyPDF2==3.0.1
+python-dotenv==1.0.1
+faiss-cpu==1.8.0
+huggingface-hub==0.24.5
+Flask ==3.0.3
+beautifulsoup4 ==4.12.3
+jsonify ==0.5
+langchain-community
+langchain 
+sentence-transformers ==3.1.1
